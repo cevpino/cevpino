@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Cesar Valle Pino @cevpino
-- 👀 I’m interested in improving my skills in web application development
+- 👀 I’m interested in improving my skills in Java, Spring framework, Angular and Javascript
 - 🌱 I’m currently learning JavaScrip and Angular at Platzi, and Java Testing at Udemy
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
